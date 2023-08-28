@@ -20,7 +20,7 @@
 ## Minhas redes:
 <ul>
   <li>
-    <img src="https://static.vecteezy.com/system/resources/previews/010/063/436/original/instagram-app-icon-3d-render-free-png.png" width="18" alt="Youtube">
+    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_1280.png" width="18" alt="Youtube">
     <a href="https://www.instagram.com/compinterativa/" target="_blank" title="Instagram">Instagram</a>
   </li>
   <li>
