@@ -24,7 +24,7 @@
     <a href="https://www.instagram.com/compinterativa/" target="_blank" title="Instagram">Instagram</a>
   </li>
   <li>
-    <img src="![image](https://github.com/William-vale/william-vale/assets/63527052/7e785025-ea58-4090-85e2-03bcaf89ccf6)" width="18" alt="Linkedin"> 
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" width="18" alt="Linkedin"> 
     <a href="https://www.linkedin.com/in/william-do-vale/" target="_blank" title="LinkedIn">LinkedIn</a>
   </li>
 </ul>
