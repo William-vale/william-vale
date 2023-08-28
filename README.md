@@ -27,3 +27,10 @@
     <a href="https://www.linkedin.com/in/william-do-vale/" target="_blank" title="LinkedIn">LinkedIn</a>
   </li>
 </ul>
+
+## Status
+
+![William GitHub stats](https://github-readme-stats.vercel.app/api?username=William-vale&hide=contribs,prs)
+
+
+####
