@@ -21,7 +21,7 @@
 <ul>
   <li>
     <img src="https://img.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg?w=740&t=st=1693241974~exp=1693242574~hmac=647eefcef0cd571ce79de461de1da4fc0cb9c3b6fb5d9567cf06e99b1b31f4fa" width="18" alt="Youtube">
-    <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber" target="_blank" title="My Youtube">Youtube</a>
+    <a href="https://www.instagram.com/compinterativa/" target="_blank" title="My Youtube">Youtube</a>
   </li>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87161461-f33f8580-c29a-11ea-8686-34eb06e44501.png" width="18" alt="Twitter"> 
