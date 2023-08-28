@@ -24,11 +24,7 @@
     <a href="https://www.instagram.com/compinterativa/" target="_blank" title="Instagram">Instagram</a>
   </li>
   <li>
-    <img src="https://user-images.githubusercontent.com/30157522/87161461-f33f8580-c29a-11ea-8686-34eb06e44501.png" width="18" alt="Twitter"> 
-    <a href="https://twitter.com/IuryProf" target="_blank" title="My Twitter">Twitter</a>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
-    <a href="https://www.linkedin.com/in/iurygdeoliveira/" target="_blank" title="My LinkedIn">LinkedIn</a>
+    <img src="![image](https://github.com/William-vale/william-vale/assets/63527052/7e785025-ea58-4090-85e2-03bcaf89ccf6)" width="18" alt="Linkedin"> 
+    <a href="https://www.linkedin.com/in/william-do-vale/" target="_blank" title="LinkedIn">LinkedIn</a>
   </li>
 </ul>
