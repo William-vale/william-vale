@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=William-vale&size_weight=0.5&count_weight=0.5)
-
 ## Minhas redes:
 <ul>
   <li>
