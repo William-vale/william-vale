@@ -19,7 +19,7 @@
 ## Meu Portfolio:
 <ul>
   <li>
-    <img src="https://cdn.pixabay.com/photo/2016/07/13/19/43/screen-1515324_1280.png" width="18" alt="Portfolio">
+    <img src="https://cdn.pixabay.com/photo/2016/07/13/19/43/screen-1515324_1280.png" width="18" color="white" alt="Portfolio">
     <a href="https://william-vale.github.io/Meu-portfolio/" target="_blank" title="Portfolio">Instagram</a>
   </li>
 </ul>
