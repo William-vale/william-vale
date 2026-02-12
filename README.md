@@ -23,7 +23,6 @@
     <a href="https://william-vale.github.io/Meu-portfolio/" target="_blank" title="Portfolio">Instagram</a>
   </li>
 </ul>
-    <img src="[https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_1280.png](https://cdn.pixabay.com/photo/2021/07/21/12/02/briefcase-6482909_1280.jpg)" width="18" alt="Portfolio"/>
 
 ## Minhas redes:
 <ul>
