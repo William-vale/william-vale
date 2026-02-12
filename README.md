@@ -1,7 +1,7 @@
 # Olá meu nome é William do Vale
 ### Bem vindos ao meu perfil do Github
 
-- 🔭 Atualmente estou trabalhando no Colégio Santa Maria, Tianguá - Ceará, na área de TI.
+- 🔭 Desenvolvedor Front-End Freelancer.
 - 🌱 Atualmente estou aprendendo NextJs.
 
 ## Linguagens e Tecnologias
