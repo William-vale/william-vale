@@ -62,9 +62,29 @@ Sou um desenvolvedor apaixonado por criar interfaces modernas e sistemas eficien
 
 <br/>
 
-### 📈 Minhas Estatísticas
+### 📈 Minhas Estatísticas e Conquistas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=William-vale&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub de William" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-vale&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=William-vale&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Troféus do GitHub de William" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=William-vale&theme=tokyonight&hide_border=true" alt="Estatísticas de Streak do GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=William-vale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub" height="195" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-vale&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="195" />
+  </a>
 </div>
